@@ -1,1 +1,3 @@
-# hw5-android-styling-Gardashaliyeva
+# Homework 5: Android Styling prepared by Ilaha Gardashaliyeva
+
+
